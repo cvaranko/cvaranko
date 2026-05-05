@@ -3,7 +3,7 @@
 
 ![open to work](https://img.shields.io/badge/open%20to%20work-brightgreen?style=flat-square)
 ![graduating june 2026](https://img.shields.io/badge/graduating-june%202026-lightgrey?style=flat-square)
-![ex-microsoft](https://img.shields.io/badge/ex--microsoft-lightgrey?style=flat-square)
+![microsoft alumni](https://img.shields.io/badge/ex--microsoft-lightgrey?style=flat-square)
 
 ---
 
