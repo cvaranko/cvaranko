@@ -45,7 +45,7 @@ I'm a data analytics student at the tail end of my degree, with a background tha
 ![Capstone](https://img.shields.io/badge/Predicting%20Game%20Revenue%20on%20Steam-in%20progress%20%7C%2040%25-378ADD?style=flat-square)
 > Capstone Project · Predictive Analyitics · R, Tableau, Excel · Est. June 2026
  
-![Multicollinearity](https://img.shields.io/badge/Multicollinearity%2C%20Non--Linearity%20%26%20Heteroskedasticity-coming%20soon%20%7C%2010%25-EF9F27?style=flat-square)
+![Multicollinearity](https://img.shields.io/badge/Multicollinearity%2C%20Non--Linearity%20%26%20Heteroskedasticity-coming%20soon%20%7C%200%25-EF9F27?style=flat-square)
 > Academic Projects · Econometrics · R · Est. end of May 2026
  
 ![EconFinal](https://img.shields.io/badge/Econometrics%20Final%20Project-coming%20soon%20%7C%200%25-EF9F27?style=flat-square)
