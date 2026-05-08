@@ -1,4 +1,4 @@
-# hey, i'm carolina 👋
+# hello, i'm carolina 👋
 **data analyst · student**
 
 ![open to work](https://img.shields.io/badge/open%20to%20work-brightgreen?style=flat-square)
@@ -7,7 +7,7 @@
 
 ---
 
-# 💫 about me
+# :frog: about me
 I'm a data analytics student at the tail end of my degree, with a background that spans nearly four years at Microsoft before returning to school to go deeper on the analytical side. My coursework has covered econometrics, experimental design, and statistical modeling, mostly in R, with a growing toolkit across Python, SQL, and visualization tools like Tableau.<br><br>Outside of data, I'm into photography (both digital and film), traveling, and gaming. 
 
 ##
@@ -16,7 +16,7 @@ I'm a data analytics student at the tail end of my degree, with a background tha
 
 ---
  
-## tech stack
+## :computer: tech stack
  
 **languages**
  
