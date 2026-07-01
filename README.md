@@ -1,5 +1,5 @@
 # hello, i'm carolina 👋
-**data analyst · BAS Data Analytics**
+**Data Analyst · BAS Data Management & Analysis**
 
 ![open to work](https://img.shields.io/badge/open%20to%20work-brightgreen?style=flat-square)
 ![recently graduated](https://img.shields.io/badge/recently%20graduated-june%202026-lightgrey?style=flat-square)
