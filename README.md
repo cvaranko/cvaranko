@@ -24,7 +24,7 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 
 **databases & cloud**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **data & visualization tools**
 
@@ -41,8 +41,8 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 ![Capstone](https://img.shields.io/badge/Predicting%20Game%20Revenue%20on%20Steam-completed-brightgreen?style=flat-square)
 > Capstone 2026 · Multiple Linear Regression + Random Forest · R, Tableau, Excel
 
-![Multicollinearity](https://img.shields.io/badge/Multicollinearity%2C%20Non--Linearity%20%26%20Heteroskedasticity-completed-brightgreen?style=flat-square)
-> Academic Projects · Econometrics · R
+![Pipeline](https://img.shields.io/badge/Capstone%20Data%20Pipeline-completed-brightgreen?style=flat-square)
+> Capstone 2026 · dbt + Snowflake Analytics Pipeline · dbt, SQL, Snowflake, Tableau
 
 ![EconFinal](https://img.shields.io/badge/Econometrics%20Final%20Project-completed-brightgreen?style=flat-square)
 > Academic Projects · Econometrics · R
@@ -54,14 +54,11 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 ![Legendary](https://img.shields.io/badge/The%20Anatomy%20of%20a%20Legendary%20Pok%C3%A9mon-in%20progress-378ADD?style=flat-square)
 > Independent Projects · Python · matplotlib · pandas · seaborn
 
-![Tableau](https://img.shields.io/badge/Learning%20Project%20%233-in%20progress-378ADD?style=flat-square)
-> Independent Projects · Tableau · Pokémon dataset
+![Wellness](https://img.shields.io/badge/Personal%20Wellness%20App-in%20progress-378ADD?style=flat-square)
+> Independent Projects · TBD
 
-![SQL](https://img.shields.io/badge/Which%20Pok%C3%A9mon%20are%20objectively%20the%20best%3F-coming%20soon-EF9F27?style=flat-square)
-> Independent Projects · SQL · Pokémon dataset
-
-![PowerBI](https://img.shields.io/badge/Pok%C3%A9mon%20by%20the%20Numbers-coming%20soon-EF9F27?style=flat-square)
-> Independent Projects · Power BI · Pokémon dataset
+![Marketing](https://img.shields.io/badge/Marketing%20Analytics%20Final%20Project-in%20progress-378ADD?style=flat-square)
+> Academic Projects · TBD
 
 ---
 
