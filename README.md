@@ -54,9 +54,6 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 ![Legendary](https://img.shields.io/badge/The%20Anatomy%20of%20a%20Legendary%20Pok%C3%A9mon-in%20progress-378ADD?style=flat-square)
 > Independent Projects · Python · matplotlib · pandas · seaborn
 
-![Wellness](https://img.shields.io/badge/Personal%20Wellness%20App-in%20progress-378ADD?style=flat-square)
-> Independent Projects · TBD
-
 ![Marketing](https://img.shields.io/badge/Marketing%20Analytics%20Final%20Project-in%20progress-378ADD?style=flat-square)
 > Academic Projects · TBD
 
