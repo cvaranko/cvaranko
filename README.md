@@ -9,7 +9,7 @@
 ---
 
 ## 🐸 about me
-I'm a data analyst and recent graduate with a background that spans nearly four years at Microsoft before returning to school to go deeper on the analytical side. My coursework has covered econometrics, experimental design, and statistical modeling, mostly in R, with a toolkit that also spans Python, SQL, dbt, and Tableau.<br><br>Outside of data, I'm into [photography](https://www.cvaranko.com/photography-portfolio), traveling, and gaming.
+Data analyst with a BAS in Data Analytics from Bellevue College and nearly four years at Microsoft before that. I went back to school to go deeper on the analytical side and graduated in June 2026.<br><br>I work across the full stack: dbt and Snowflake for pipelines, R and Python for modeling, Tableau for dashboards. I like problems where the answer actually changes what someone does next.<br><br>Outside of data, I’m into [photography](https://www.cvaranko.com/photography-portfolio), traveling, and gaming.
 
 ##
 
