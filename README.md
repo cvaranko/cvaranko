@@ -48,9 +48,6 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 ![Pipeline](https://img.shields.io/badge/Capstone%20Data%20Pipeline-completed-brightgreen?style=flat-square)
 > dbt + Snowflake Analytics Pipeline · dbt, SQL, Snowflake, Tableau
 
-![EconFinal](https://img.shields.io/badge/Econometrics%20Final%20Project-completed-brightgreen?style=flat-square)
-> Academic Projects · Econometrics · R
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
