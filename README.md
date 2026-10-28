@@ -4,6 +4,7 @@
 ![open to work](https://img.shields.io/badge/open%20to%20work-brightgreen?style=flat-square)
 ![recently graduated](https://img.shields.io/badge/recently%20graduated-june%202026-lightgrey?style=flat-square)
 ![microsoft alumni](https://img.shields.io/badge/microsoft%20alumni-lightgrey?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolinavaranko)
 
 ---
 
@@ -11,10 +12,6 @@
 I'm a data analyst and recent graduate with a background that spans nearly four years at Microsoft before returning to school to go deeper on the analytical side. My coursework has covered econometrics, experimental design, and statistical modeling, mostly in R, with a toolkit that also spans Python, SQL, dbt, and Tableau.<br><br>Outside of data, I'm into [photography](https://www.cvaranko.com/photography-portfolio), traveling, and gaming.
 
 ##
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolinavaranko)
-
----
 
 ## 💻 tech stack
 
