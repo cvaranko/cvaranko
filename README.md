@@ -12,7 +12,7 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 
 ##
 
-[![Resume](https://img.shields.io/badge/Resume-4A4A4A?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./resume.pdf) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://cvaranko.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolinavaranko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolinavaranko)
 
 ---
 
