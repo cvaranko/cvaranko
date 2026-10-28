@@ -8,7 +8,7 @@
 ---
 
 ## 🐸 about me
-I'm a data analyst and recent graduate with a background that spans nearly four years at Microsoft before returning to school to go deeper on the analytical side. My coursework has covered econometrics, experimental design, and statistical modeling, mostly in R, with a growing toolkit across Python, SQL, and visualization tools like Tableau.<br><br>Outside of data, I'm into [photography](https://www.cvaranko.com/photography-portfolio), traveling, and gaming.
+I'm a data analyst and recent graduate with a background that spans nearly four years at Microsoft before returning to school to go deeper on the analytical side. My coursework has covered econometrics, experimental design, and statistical modeling, mostly in R, with a toolkit that also spans Python, SQL, dbt, and Tableau.<br><br>Outside of data, I'm into [photography](https://www.cvaranko.com/photography-portfolio), traveling, and gaming.
 
 ##
 
@@ -26,9 +26,13 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**data & visualization tools**
+**data & analytics tools**
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+**design & creative**
+
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ##
 
@@ -42,20 +46,10 @@ I'm a data analyst and recent graduate with a background that spans nearly four 
 > Capstone 2026 · Multiple Linear Regression + Random Forest · R, Tableau, Excel
 
 ![Pipeline](https://img.shields.io/badge/Capstone%20Data%20Pipeline-completed-brightgreen?style=flat-square)
-> Capstone 2026 · dbt + Snowflake Analytics Pipeline · dbt, SQL, Snowflake, Tableau
+> dbt + Snowflake Analytics Pipeline · dbt, SQL, Snowflake, Tableau
 
 ![EconFinal](https://img.shields.io/badge/Econometrics%20Final%20Project-completed-brightgreen?style=flat-square)
 > Academic Projects · Econometrics · R
-
----
-
-## 🚧 work in progress
-
-![Legendary](https://img.shields.io/badge/The%20Anatomy%20of%20a%20Legendary%20Pok%C3%A9mon-in%20progress-378ADD?style=flat-square)
-> Independent Projects · Python · matplotlib · pandas · seaborn
-
-![Marketing](https://img.shields.io/badge/Marketing%20Analytics%20Final%20Project-in%20progress-378ADD?style=flat-square)
-> Academic Projects · TBD
 
 ---
 
